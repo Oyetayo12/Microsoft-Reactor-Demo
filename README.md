@@ -1,1 +1,1 @@
-# Ruby Finanacial Data Analysis
+# Riby Finanacial Data Analysis
